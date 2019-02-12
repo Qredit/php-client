@@ -1,14 +1,14 @@
-# Ark PHP - Client
+# Qredit PHP - Client
 
 <p align="center">
     <img src="https://github.com/ArkEcosystem/php-client/blob/master/banner.png" />
 </p>
 
-> A simple PHP API client for the Ark Blockchain.
+> A simple PHP API client for the Qredit Blockchain.
 
-[![Build Status](https://badgen.now.sh/circleci/github/ArkEcosystem/php-client)](https://circleci.com/gh/ArkEcosystem/php-client)
-[![Codecov](https://badgen.now.sh/codecov/c/github/arkecosystem/php-client)](https://codecov.io/gh/arkecosystem/php-client)
-[![Latest Version](https://badgen.now.sh/github/release/ArkEcosystem/php-client)](https://github.com/ArkEcosystem/php-client/releases)
+[![Build Status](https://badgen.now.sh/circleci/github/qredit/php-client)](https://circleci.com/gh/qredit/php-client)
+[![Codecov](https://badgen.now.sh/codecov/c/github/qredit/php-client)](https://codecov.io/gh/qredit/php-client)
+[![Latest Version](https://badgen.now.sh/github/release/qredit/php-client)](https://github.com/qredit/php-client/releases)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
 ## Documentation
